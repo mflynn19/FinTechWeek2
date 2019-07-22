@@ -1,0 +1,38 @@
+div{
+  text-align: center;
+}
+
+#Header{
+  min-height: 60px;
+  line-height: 60px;
+  width: 100%;
+  background-color: black;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#College{
+  min-height: 85px;
+  line-height: 45px;
+  width: 100%;
+  background-color: khaki;
+  border: 2px dotted ;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+#TV{
+  min-height: 85px;
+  line-height: 50px;
+  width: 100%;
+  background-color: black;
+  border-color: khaki;
+  border: 2px dotted ;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+img{
+  margin: 5px;
+  display: inline-flex;
+  height: 200px;
+  width: 300px;
+}
