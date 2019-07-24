@@ -17,7 +17,6 @@ div{
   background-color: khaki;
   border: 2px dotted ;
   font-family: 'Josefin Sans', sans-serif;
-
 }
 
 #TV{
@@ -30,9 +29,18 @@ div{
   font-family: 'Josefin Sans', sans-serif;
 }
 
+#IceCream{
+  min-height: 85px;
+  line-height: 45px;
+  width: 100%;
+  background-color: khaki;
+  border: 2px dotted ;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 img{
   margin: 5px;
   display: inline-flex;
   height: 200px;
-  width: 300px;
+  width: auto;
 }

@@ -1,0 +1,23 @@
+.blue{
+    color:blue;
+}
+
+.red{
+    color:red;
+}
+
+.green{
+    color:green;
+}
+
+.bold{
+    font-weight: bold
+}
+
+.big{
+    font-size: large;
+}
+
+.background{
+    background-color: deepskyblue;
+}
